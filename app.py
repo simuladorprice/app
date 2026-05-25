@@ -10,8 +10,8 @@ st.write("Responda às perguntas com **Sim ou Não**.")
 # Perguntas
 perguntas = [
     "A CEPAL ainda explica a América Latina de hoje?",
-    "Industrialização continua sendo solução?",
-    "O foco em desigualdade fortalece ou enfraquece o desenvolvimento?",
+    "De acordo com a CEPAL a industrialização é um fim em si?",
+    "O foco em desigualdade fortalece o desenvolvimento?",
     "A CEPAL é uma escola de pensamento?",
     "A CEPAL é um órgão técnico?",
     "A CEPAL é uma agenda política?"
